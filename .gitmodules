@@ -1,0 +1,3 @@
+[submodule "vue-with-webpacker"]
+	path = vue-with-webpacker
+	url = https://github.com/shu-illy/vue-with-webpacker.git
